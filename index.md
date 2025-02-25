@@ -1,2 +1,2 @@
-[English](english.md)
-[Polski](polish.md)
+- [English](english.md)
+- [Polski](polish.md)
